@@ -16,6 +16,7 @@
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="VisualStudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+<img align="left" alt="VisualStudio" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
 <!--
 **anettfre/anettfre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
