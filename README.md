@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my master thesis in [Data Science](https://www.uio.no/english/studies/programmes/datascience-master/index.html). I am using BERT <img align="left" alt="Rstudio" width="26px" src="https://miro.medium.com/max/796/1*QtVrb-X78Q1RauEwnmN0Lw.png" /> to analyse Scandinavian languages.
+- 🔭 I’m currently working on my master thesis in [Data Science](https://www.uio.no/english/studies/programmes/datascience-master/index.html). I am using BERT <img align="here" alt="Rstudio" width="26px" src="https://miro.medium.com/max/796/1*QtVrb-X78Q1RauEwnmN0Lw.png" /> to analyse Scandinavian languages.
 - 🌱 I’m currently learning applied Bayesian analysis
 
 
