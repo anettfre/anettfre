@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my master thesis in [Data Science](https://www.uio.no/english/studies/programmes/datascience-master/index.html). I am using [BERT <img align="here" alt="Rstudio" width="26px" src="https://miro.medium.com/max/796/1*QtVrb-X78Q1RauEwnmN0Lw.png" />](https://arxiv.org/abs/1810.04805) to analyse Scandinavian languages.
+- 🔭 I’m currently working as a Data Scientist 
 
 
 **Tools & Languages**
@@ -17,6 +17,9 @@
 <img align="left" alt="VisualStudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
 <img align="left" alt="Linux" width="26px" src="https://media.snl.no/media/6980/standard_compressed_datamaskin_linuxlogo.jpg" />
 <img align="left" alt="Windows" width="26px" src="https://seekicon.com/free-icon-download/microsoft-windows_1.svg" />
+<img align="left" alt="Jinja" width="26px" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" />
+<img align="left" alt="DBT" width="26px" src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" />
+<img align="left" alt="Databricks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
 
 <!--
 **anettfre/anettfre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- on my master thesis in [Data Science](https://www.uio.no/english/studies/programmes/datascience-master/index.html). I am using [BERT <img align="here" alt="Rstudio" width="26px" src="https://miro.medium.com/max/796/1*QtVrb-X78Q1RauEwnmN0Lw.png" />](https://arxiv.org/abs/1810.04805) to analyse Scandinavian languages.
 -->
