@@ -17,9 +17,9 @@
 <img align="left" alt="VisualStudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
 <img align="left" alt="Linux" width="26px" src="https://media.snl.no/media/6980/standard_compressed_datamaskin_linuxlogo.jpg" />
 <img align="left" alt="Windows" width="26px" src="https://seekicon.com/free-icon-download/microsoft-windows_1.svg" />
-<img align="left" alt="Jinja" width="54px" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" />
-<img align="left" alt="DBT" width="48px" src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" />
-<img align="left" alt="Databricks" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
+[<img align="left" alt="Jinja" width="54px" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" />](https://jinja.palletsprojects.com/en/3.1.x/)
+[<img align="left" alt="DBT" width="48px" src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" />](https://www.getdbt.com/)
+[<img align="left" alt="Databricks" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />](https://www.databricks.com/)
 
 <!--
 **anettfre/anettfre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
