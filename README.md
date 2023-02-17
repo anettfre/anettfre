@@ -14,7 +14,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" al="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="VisualStudio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+<img align="left" alt="VisualStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="Linux" width="26px" src="https://media.snl.no/media/6980/standard_compressed_datamaskin_linuxlogo.jpg" />
 <img align="left" alt="Windows" width="26px" src="https://seekicon.com/free-icon-download/microsoft-windows_1.svg" />
 [<img align="left" alt="Jinja" width="54px" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" />](https://jinja.palletsprojects.com/en/3.1.x/)
