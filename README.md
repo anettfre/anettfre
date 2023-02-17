@@ -17,6 +17,7 @@
 <img align="left" alt="VisualStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="Linux" width="26px" src="https://media.snl.no/media/6980/standard_compressed_datamaskin_linuxlogo.jpg" />
 <img align="left" alt="Windows" width="26px" src="https://seekicon.com/free-icon-download/microsoft-windows_1.svg" />
+<img align="left" alt="Mac" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Icon-Mac.svg" />
 [<img align="left" alt="Jinja" width="54px" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" />](https://jinja.palletsprojects.com/en/3.1.x/)
 [<img align="left" alt="DBT" width="48px" src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" />](https://www.getdbt.com/)
 [<img align="left" alt="Databricks" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />](https://www.databricks.com/)
